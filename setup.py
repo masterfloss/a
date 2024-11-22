@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(
-    name='module_name',  # Replace with your module's name
+    name='greetings',  # Replace with your module's name
     version='1.0.0',
     py_modules=['greetings'],  # The name of your Python file (without .py)
     description='Module examplifying',
